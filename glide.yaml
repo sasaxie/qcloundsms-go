@@ -1,0 +1,3 @@
+package: github.com/sasaxie/qcloundsms-go
+import:
+- package: github.com/paulrosania/go-charset
